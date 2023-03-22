@@ -3,14 +3,14 @@
 
 # About Me ...  <a href="#">![streamlinehq-no-connection-5-interface-400](https://user-images.githubusercontent.com/105555666/195209989-b42b71d9-a766-479c-a83e-7b8e7e121304.PNG) </a> 
 
-- I a Full-stack Developer,Self learner.👩🏼‍💻
+- I'm a Full-stack Developer,Self learner.👩🏼‍💻
 - Fun fact : I love Painting 🎨, programming 💻, Music 🎹, books.🚀
 - Future Goals: Learn more technologies - Never stop creating new ideas.🦾
 <h4> currently learning 💻📖</h4>
  I am an individual with a eager eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
 
- ## 🤖 Languages and Tools : 
-<!-- <table>
+<!-- ## 🤖 Languages and Tools : 
+ <table>
     <tbody>
         <tr>
             <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
